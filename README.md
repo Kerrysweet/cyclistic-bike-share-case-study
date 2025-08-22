@@ -60,6 +60,7 @@
 ---
 
 ## 📬 Contact
-- Email: YOUR_EMAIL  
-- LinkedIn: YOUR_LINKEDIN  
-- GitHub: YOUR_GITHUB
+- Email: kerry4idong@gmail.com  
+- LinkedIn:https://www.linkedin.com/in/kerry-idong-710308143
+
+
